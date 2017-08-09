@@ -13,7 +13,7 @@ RUN pip install --no-cache-dir -r /usr/src/app/requirements.txt
 COPY app.py /usr/src/app/
 
 # tell the port number the container should expose
-EXPOSE 5000
+EXPOSE 8010
 
 # run the application
 CMD ["python", "/usr/src/app/app.py"]
