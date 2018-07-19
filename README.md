@@ -1,4 +1,4 @@
-# docker_uni
+# docker_file_example
 
 ## Create docker image
 Be in folder of the ```Dockerfille```:
